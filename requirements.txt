@@ -1,0 +1,5 @@
+
+Flask
+TextBlob
+transformers
+functools
